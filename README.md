@@ -1,3 +1,8 @@
+## Hi! 
+
+- 📚 I'm currently studying telecommunications engineering
+- 💻 I'm currently learning python
+
 ## Technologies
 
 <div style="display: incline_block"><cbr>
