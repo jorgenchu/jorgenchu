@@ -14,7 +14,8 @@
 <p align ="left">
     
 <a href =https://www.linkedin.com/in/jorge-garc%C3%ADa-duque-13718a152/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href =https://www.instagram.com/jorge__gd//><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+<a href =https://www.instagram.com/jorge__gd><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+<a href ="mailto:jorgenchu@gmail.com"/><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
 
 ## Snake eating my contribution graph
