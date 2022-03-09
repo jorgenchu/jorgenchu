@@ -24,4 +24,4 @@
 
 
 ## Snake eating my contribution graph
-![snake gi](https://github.com/jorgenchu/jorgenchu/blob/output/github-contribution-grid-snake.gif)
+
