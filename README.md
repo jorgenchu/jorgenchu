@@ -1,7 +1,7 @@
 ## Hi! 
 
 - 📚 I'm currently studying telecommunications engineering
-- 💻 I'm currently learning python
+- 💻 I'm currently learning python!
 
 ## Technologies
 
