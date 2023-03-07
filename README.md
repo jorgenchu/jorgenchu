@@ -1,6 +1,6 @@
 ## Hi! 
 
-- 📚 I'm currently studying telecommunications engineering
+- 📚 I'm telecommunications engineering and I'm currently studying a cibersecurity master
 - 💻 I'm currently learning python!
 
 ## Technologies
