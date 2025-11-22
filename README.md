@@ -1,7 +1,5 @@
 ## Hi! 
-
-- 📚 I'm telecommunications engineer and I'm currently studying a cibersecurity master
-- 💻 I'm currently learning python!
+- Working on something big
 
 ## Technologies
 
