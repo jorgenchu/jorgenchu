@@ -1,5 +1,4 @@
 ## Hi! 
-- CTO & Co-founder of www.tramitatucoche.es
 
 ## Technologies
 
