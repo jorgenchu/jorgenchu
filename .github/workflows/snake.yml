@@ -1,0 +1,15 @@
+<svg width="480" height="160" viewBox="0 0 480 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .gray { fill: #ebedf0; }
+    .snake { fill: purple; animation: move 5s infinite linear; }
+    @keyframes move {
+      0% { transform: translate(0, 0); }
+      25% { transform: translate(100px, 0); }
+      50% { transform: translate(100px, 50px); }
+      75% { transform: translate(0, 50px); }
+      100% { transform: translate(0, 0); }
+    }
+  </style>
+  <rect x="0" y="0" width="10" height="10" class="gray" rx="2" />
+  <rect x="0" y="0" width="10" height="10" class="snake" rx="2" />
+</svg>
